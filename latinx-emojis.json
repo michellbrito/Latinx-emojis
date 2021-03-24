@@ -1,7 +1,7 @@
 [
   {
     "name": "dale",
-    "category": "sayings",
+    "category": "expressions",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/dale.png"
   },
   {
@@ -63,5 +63,10 @@
     "name": "case-bustelo",
     "category": "drinks",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/case-bustelo.png"
+  },
+  {
+    "name": "bye-soraya",
+    "category": "expressions",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/bye-soraya.gif"
   }
 ]
