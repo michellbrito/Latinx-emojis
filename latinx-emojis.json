@@ -31,27 +31,32 @@
   },
   {
     "name": "arepa-reina",
-    "category": "food",
+    "category": "foods",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/arepa-reina.png"
   },
   {
     "name": "arepa-reloaded",
-    "category": "food",
+    "category": "foods",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/arepa-reloaded.png"
   },
   {
     "name": "avocado",
-    "category": "food",
+    "category": "foods",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/avocado.png"
   },
   {
     "name": "bad-bunny",
-    "category": "person",
+    "category": "people",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/bad-bunny.png"
   },
   {
     "name": "bon-bon-bum",
-    "category": "food",
+    "category": "foods",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/bon-bon-bum.gif"
+  },
+  {
+    "name": "brazil-ball",
+    "category": "sports",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/brazil-ball.png"
   }
 ]
