@@ -96,7 +96,7 @@
   },
   {
     "name": "chacal",
-    "category": "expression",
+    "category": "expressions",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chacal.png"
   },
   {
@@ -123,5 +123,10 @@
     "name": "chile-red",
     "category": "foods",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chile-red.png"
+  },
+  {
+    "name": "chisme",
+    "category": "expressions",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chisme.png"
   }
 ]
