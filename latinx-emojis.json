@@ -60,9 +60,9 @@
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/brazil-ball.png"
   },
   {
-    "name": "case-bustelo",
+    "name": "cafe-bustelo",
     "category": "drinks",
-    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/case-bustelo.png"
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/cafe-bustelo.png"
   },
   {
     "name": "bye-soraya",
@@ -173,5 +173,10 @@
     "name": "don-francisco",
     "category": "people",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/don-francisco.png"
+  },
+  {
+    "name": "mango",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/mango.png"
   }
 ]
