@@ -60,9 +60,9 @@
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/brazil-ball.png"
   },
   {
-    "name": "case-bustelo",
+    "name": "cafe-bustelo",
     "category": "drinks",
-    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/case-bustelo.png"
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/cafe-bustelo.png"
   },
   {
     "name": "bye-soraya",
@@ -96,7 +96,7 @@
   },
   {
     "name": "chacal",
-    "category": "expression",
+    "category": "expressions",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chacal.png"
   },
   {
@@ -113,5 +113,70 @@
     "name": "chihuahua",
     "category": "animals",
     "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chihuahua.png"
+  },
+  {
+    "name": "chile-green",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chile-green.png"
+  },
+  {
+    "name": "chile-red",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chile-red.png"
+  },
+  {
+    "name": "chisme",
+    "category": "expressions",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chisme.png"
+  },
+  {
+    "name": "chocolate",
+    "category": "drinks",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/chocolate.png"
+  },
+  {
+    "name": "inclusive-clap",
+    "category": "objects",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/inclusive-clap.gif"
+  },
+  {
+    "name": "miguel-coco",
+    "category": "people",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/miguel-coco.png"
+  },
+  {
+    "name": "codo",
+    "category": "objects",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/codo.png"
+  },
+  {
+    "name": "concha",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/concha.png"
+  },
+  {
+    "name": "coxinha",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/coxinha.png"
+  },
+  {
+    "name": "luis-fonsi",
+    "category": "people",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/luis-fonsi.png"
+  },
+  {
+    "name": "diego-luna",
+    "category": "people",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/diego-luna.png"
+  },
+  {
+    "name": "don-francisco",
+    "category": "people",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/don-francisco.png"
+  },
+  {
+    "name": "mango",
+    "category": "foods",
+    "link": "https://michellbrito.github.io/Latinx-emojis/emojis/mango.png"
   }
 ]
