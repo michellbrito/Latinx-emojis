@@ -1,6 +1,8 @@
 name: Greeting from Mona
 
-on: issue_comment
+on:
+  issue_comment:
+    types: [created, edited, deleted]
 
 jobs:
   pr_commented:
