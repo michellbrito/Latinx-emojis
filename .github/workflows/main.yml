@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "Comment on PR #${{ github.event.issue.body}}"
+          echo "Comment on PR #${{ github.event.comment}}"
