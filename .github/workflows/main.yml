@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          sh ./rerun_test.sh
+          sh ./rerun.sh
