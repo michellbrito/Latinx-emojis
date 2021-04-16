@@ -9,7 +9,7 @@ jobs:
     # This job only runs for pull request comments
     name: PR comment
     
-    if: ${{ github.event.issue.pull_request }} && "contains(github.event.comment.body, 'test')"
+    if: ${{ github.event.issue.pull_request }} && contains(github.event.comment.html_url, 'test')
     runs-on: ubuntu-latest
     steps:
       - run: |
