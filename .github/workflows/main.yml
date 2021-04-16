@@ -10,4 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "Comment on PR #${{ github.event.issue.number }}"
+          git commit -a --allow-empty-message -m ''
+          git push
