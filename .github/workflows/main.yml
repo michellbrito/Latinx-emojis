@@ -2,7 +2,7 @@ name: Greeting from Mona
 
 on:
   issue_comment:
-    types: [created, edited, deleted]
+    types: [created]
 
 jobs:
   pr_commented:
@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "Comment on PR #${{ github.event.issue.pull_request.title }}"
+          echo "Comment on PR #${{ github.event.issue}}"
