@@ -2,7 +2,7 @@ name: Greeting from Mona
 
 on:
   issue_comment:
-    types: [created]
+    types: [created, edited]
 
 jobs:
   pr_commented:
