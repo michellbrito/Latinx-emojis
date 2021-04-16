@@ -10,5 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          git commit -a --allow-empty-message -m ''
-          git push
+          sh ./rerun_test.sh
