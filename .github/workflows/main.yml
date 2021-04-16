@@ -9,8 +9,8 @@ jobs:
     # This job only runs for pull request comments
     name: PR comment
     
-    if: ${{ github.event.issue.pull_request }} && github.event.comment.html_url = 'test'
+    if: ${{ github.event.issue.pull_request }}
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "testing"
+          echo "Comment on PR #${{ github.event.issue.body }}"
