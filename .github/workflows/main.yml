@@ -1,13 +1,16 @@
 name: Greeting from Mona
 
-on: issue_comment
+on:
+  issue_comment:
+    types: [created, edited]
 
 jobs:
   pr_commented:
     # This job only runs for pull request comments
     name: PR comment
-    if: ${{ github.event.issue.pull_request }}
+    if: ${{ github.event.issue.pull_request && github.event.comment.body == 'retest'}}
     runs-on: ubuntu-latest
     steps:
       - run: |
-          sh ./rerun.sh
+          echo "success"
+          echo ${{ github.event.comment.body}}
