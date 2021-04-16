@@ -9,8 +9,8 @@ jobs:
     # This job only runs for pull request comments
     name: PR comment
     
-    if: ${{ github.event.issue.pull_request }}
+    if: ${{ github.event.issue.pull_request }} && github.event.comment.body == "retest"
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "Comment on PR #${{ github.event.comment.body}}"
+          echo "success"
