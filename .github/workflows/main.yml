@@ -10,5 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          git commit --allow-empty -m "trigger GitHub actions"
-          git push
+          ls
