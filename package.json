@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/michellbrito/Latinx-emojis#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "jimp": "^0.16.1",
     "lodash": "^4.17.21",
     "merge-img": "^2.1.3",
